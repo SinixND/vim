@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/arch/.config/dwmblocks-async'
+let g:netrw_dirhist_8='/home/arch/.config/slstatus'
+let g:netrw_dirhist_7='/data/data/com.termux/files/home/git-repos/test'
+let g:netrw_dirhist_6='/data/data/com.termux/files/home'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_4='/home/arch'
+let g:netrw_dirhist_3='/home/arch/.config/dwm'
+let g:netrw_dirhist_2='/data/data/com.termux/files/home/.config/vim'
+let g:netrw_dirhist_1='/data/data/com.termux/files/home/git-repos/project-template/src/classes'
+let g:netrw_dirhist_0='/data/data/com.termux/files/home/git-repos/Roguelike/doc'
